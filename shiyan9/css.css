@@ -1,0 +1,13 @@
+.image{float: left;border:2px solid #333;width: 300px;height:160px,
+      margin-right:2px;}
+img{opacity:0.7;}
+.decs{font-family: "仿宋"; text-align: center;}
+.img hover:{opacity: 1.0;}
+div.image img{
+	display: inline;
+	margin: 3px;
+}
+div.image a:hover img{
+	border: 1px solid #666;
+	opacity: 1.0;
+}
